@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #e0f7fa; /* nuevo color de fondo */
     text-align: center;
     margin-top: 50px;
 }
@@ -9,6 +9,12 @@ h1 {
     color: #2c3e50;
 }
 
+h2 {
+    color: #00695c;
+    margin-top: 30px;
+}
+
 p {
-    color: #555;
+    color: #444;
+    font-size: 18px;
 }
